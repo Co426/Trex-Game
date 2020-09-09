@@ -63,7 +63,7 @@ function setup() {
   
   score = 0;
   
-  trex.debug=true;
+ 
   trex.setCollider("circle",0,0,40)
 }
 
